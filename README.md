@@ -1,0 +1,2 @@
+# oobe
+windwos oobe cmd 
